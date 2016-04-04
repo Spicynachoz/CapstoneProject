@@ -41,7 +41,6 @@ if __name__ == "__main__":
                 else:
                     losses_home += 1
                     win = 0
-                score_diff = int(row[1]) - int (row[3]) 
             if (row[2] == team):
                 if(int(row[1]) < int(row[3])):
                    away_wins += 1
