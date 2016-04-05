@@ -6,7 +6,6 @@ Created on Sun Apr  3 13:50:03 2016
 """
 
 import csv
-import os
 
 '''
     This script is used to extract data from a csv
@@ -18,20 +17,23 @@ import os
     in another script
     
     Format is the following:
+    
     [Home, score, Away, score, wins_home, losses_home, 
     wins_away, losses_away, w/l % home, w/l % away, 
-    point_difference, (win or loss o your team)]
+    point_difference, (win or loss of your team)]
 
 '''
 
-if __name__ == "__main__":
+def extractData(file):
     file = open('nba_data.csv')
     csv_read = csv.reader(file)
-    team = input ("Enter team name: ")
+    #team = input ("Enter team name: ")
+    team = 'Miami Heat'
     home_wins = 0
     away_wins = 0
     losses_away = 0
     losses_home = 0
+    info = []
     for row in csv_read:
         if(row[0] == team or row[2] == team):
             if (row[0] == team):
@@ -62,5 +64,10 @@ if __name__ == "__main__":
                 point_diff = int(row[3]) - int(row[1])
             row[10] = point_diff
             row.append(win)
-            print (row)
+            info.append(row)
+    return info
             
+if __name__ == "__main__":
+    data = extractData("nba_data.csv")
+    
+    
