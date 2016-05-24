@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="ABOUT US"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="#00bfff"
+        android:textColor="#ffffff"
+        android:gravity="center"
+        android:textSize="45dp"/>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="200dp">
+    <TextView
+        android:text="WHAT IS THE SPORTS SAGE?\n\n
+\t The Sports Sage is a team started by 5 seniors at Hunter College who came together to work on their final Capstone project. The theme for the Spring 2016 semester was Data Science. While brainstorming for ideas, we all came to the conclusion that sports were a common interest of ours and so The Sports Sage was born. The idea of the project was to create an application that would allow users to predict the percent chance of wins for upcoming seasons. We decided to start off with basketball since the win conditions were simpler and statistics were readily available."
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_margin="15dp"
+        />
+</ScrollView>
+<ImageView
+    android:layout_width="fill_parent"
+    android:layout_height="150dp"
+    android:layout_margin="10dp"
+    android:src="@drawable/cover"
+    />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:text="What You Get  \n \n
+Web Application and Android App that closely predicts the results for all the games in an NBA season. Also provides the user with previous results and an upcoming schedule for games."
+            android:id="@+id/t1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#00bfff"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:textSize="8sp"
+            />
+        <TextView
+            android:text="How it Works \n \n 'Machine learning spiel' "
+            android:id="@+id/t2"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#00bfff"
+            android:textColor="#ffffff"
+            android:gravity="center_horizontal"
+            android:textSize="9sp"
+            />
+        <TextView
+            android:text="Coming Soon \n \n
+In the future, Sports Sage will look to predict other popular sports such as Soccer, Football and Baseball. We may eventually delve into the realm of Esports. "
+            android:id="@+id/t3"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="#00bfff"
+            android:textColor="#ffffff"
+            android:textSize="8sp"
+            android:gravity="center_horizontal"
+
+            />
+    </LinearLayout>
+
+
+</LinearLayout><!-- From: file:/C:/Crystal/app/src/main/res/layout/activity_about.xml -->

@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    android:background="#ffffff">
+    <TextView
+        android:text="The Sports Sage"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:textSize="45dp"/>
+    <ImageView
+        android:src="@drawable/sage"
+        android:id="@+id/text6"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="15dp"
+        android:background="#ffffff"
+
+        />
+
+
+</LinearLayout>

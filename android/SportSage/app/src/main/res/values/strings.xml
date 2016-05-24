@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Crystal</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="notify">Start Countdown</string>
+    <string name="title_activity_other">Crystal</string>
+    <string name="preview">Preview</string>
+    <string name="takePict">Take Picture</string>
+    <string name="home">Home Team</string>
+    <string name="away">Away Team</string>
+    <string name="month">Month</string>
+    <string name="team">Team</string>
+
+    <string-array
+        name="month_array">
+        <item>Select Month</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+
+    </string-array>
+
+    <string-array
+        name="team_array">
+        <item>Select Team</item>
+        <item>Atlanta Hawks</item>
+        <item>Boston Celtics</item>
+        <item>Brooklyn Nets</item>
+        <item>Charlotte Hornets</item>
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>Dallas Mavericks</item>
+        <item>Denver Nuggets</item>
+        <item>Detroit Pistons</item>
+        <item>Golden State Warriors</item>
+        <item>Houston Rockets</item>
+        <item>Indiana Pacers</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Memphis Grizzlies</item>
+        <item>Miami Heat</item>
+        <item>Milwaukee Bucks</item>
+        <item>Minnesota Timberwolves</item>
+        <item>New Orleans Pelicans</item>
+        <item>New York Knicks</item>
+        <item>Oklahoma City Thunder</item>
+        <item>Orlando Magic</item>
+        <item>Philadelphia 76ers</item>
+        <item>Phoenix Suns</item>
+        <item>Portland Trail Blazers</item>
+        <item>Sacramento Kings</item>
+        <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Utah Jazz</item>
+        <item>Washington Wizards</item>
+
+    </string-array>
+    <string-array
+        name="home_array">
+        <item>Home Team</item>
+        <item>Atlanta Hawks</item>
+        <item>Boston Celtics</item>
+        <item>Brooklyn Nets</item>
+        <item>Charlotte Hornets</item>
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>Dallas Mavericks</item>
+        <item>Denver Nuggets</item>
+        <item>Detroit Pistons</item>
+        <item>Golden State Warriors</item>
+        <item>Houston Rockets</item>
+        <item>Indiana Pacers</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Memphis Grizzlies</item>
+        <item>Miami Heat</item>
+        <item>Milwaukee Bucks</item>
+        <item>Minnesota Timberwolves</item>
+        <item>New Orleans Pelicans</item>
+        <item>New York Knicks</item>
+        <item>Oklahoma City Thunder</item>
+        <item>Orlando Magic</item>
+        <item>Philadelphia 76ers</item>
+        <item>Phoenix Suns</item>
+        <item>Portland Trail Blazers</item>
+        <item>Sacramento Kings</item>
+        <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Utah Jazz</item>
+        <item>Washington Wizards</item>
+
+    </string-array>
+    <string-array
+        name="away_array">
+        <item>Away Team</item>
+        <item>Atlanta Hawks</item>
+        <item>Boston Celtics</item>
+        <item>Brooklyn Nets</item>
+        <item>Charlotte Hornets</item>
+        <item>Chicago Bulls</item>
+        <item>Cleveland Cavaliers</item>
+        <item>Dallas Mavericks</item>
+        <item>Denver Nuggets</item>
+        <item>Detroit Pistons</item>
+        <item>Golden State Warriors</item>
+        <item>Houston Rockets</item>
+        <item>Indiana Pacers</item>
+        <item>Los Angeles Clippers</item>
+        <item>Los Angeles Lakers</item>
+        <item>Memphis Grizzlies</item>
+        <item>Miami Heat</item>
+        <item>Milwaukee Bucks</item>
+        <item>Minnesota Timberwolves</item>
+        <item>New Orleans Pelicans</item>
+        <item>New York Knicks</item>
+        <item>Oklahoma City Thunder</item>
+        <item>Orlando Magic</item>
+        <item>Philadelphia 76ers</item>
+        <item>Phoenix Suns</item>
+        <item>Portland Trail Blazers</item>
+        <item>Sacramento Kings</item>
+        <item>San Antonio Spurs</item>
+        <item>Toronto Raptors</item>
+        <item>Utah Jazz</item>
+        <item>Washington Wizards</item>
+
+    </string-array>
+</resources>

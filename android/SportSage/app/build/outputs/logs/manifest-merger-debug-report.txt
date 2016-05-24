@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:10:5-40:19
+	android:label
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:12:9-39
+	android:theme
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:14:9-40
+activity#org.turntotech.notification.MainActivity
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:17:13-39
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:16:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:21:27-74
+activity#org.turntotech.notification.OtherActivity
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:24:9-27:20
+	android:label
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:25:13-42
+activity#org.turntotech.notification.ScheduleChoose
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:29:13-43
+activity#org.turntotech.notification.AboutUs
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:33:13-36
+activity#org.turntotech.notification.LastActivity
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:38:13-39
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:37:13-41
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:41:5-81
+	android:name
+		ADDED from C:\Crystal\app\src\main\AndroidManifest.xml:41:22-78
+uses-sdk
+INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:minSdkVersion
+		INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Crystal\app\src\main\AndroidManifest.xml

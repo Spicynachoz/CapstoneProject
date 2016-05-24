@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OtherActivity"
+    >
+    <TextView
+
+        android:text="Home"
+        android:gravity="center"
+        android:id="@+id/maker"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:textSize="40sp"
+        android:textColor="#ffffff"
+        android:background="#00bfff"
+        />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:background="#000"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    >
+        <ImageView
+            android:src="@drawable/schedule"
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:layout_margin="30dp"
+            android:background="#FFFFFF"
+
+            />
+
+    <ImageView
+        android:src="@drawable/imgres"
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_weight="1"
+        android:layout_margin="30dp"
+        android:background="#FFFFFF"
+        />
+
+
+
+
+        <ImageView
+            android:src="@drawable/gp"
+            android:id="@+id/text3"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="1"
+            android:layout_margin="30dp"
+            android:background="#FFFFFF"
+
+       />
+    </LinearLayout>
+
+</LinearLayout>

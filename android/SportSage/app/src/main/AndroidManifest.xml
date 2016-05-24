@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.turntotech.notification"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+  
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/sages"
+        android:label="Sport Sage"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="org.turntotech.notification.MainActivity"
+            android:label="Sport Sage" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".OtherActivity"
+            android:label="HOME" >
+        </activity>
+        <activity
+            android:name=".ScheduleChoose"
+            android:label="SCHEDULE" >
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="ABOUT US" >
+        </activity>
+        <activity
+            android:name=".LastActivity"
+            android:label="MATCHMAKER" >
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>
+
+
+
