@@ -1,0 +1,871 @@
+Team One,Team Two,Percent
+Philadelphia 76ers,Los Angeles Lakers,24
+Philadelphia 76ers,Brooklyn Nets,28
+Philadelphia 76ers,Phoenix Suns,29
+Philadelphia 76ers,Minnesota Timberwolves,30
+Philadelphia 76ers,New Orleans Pelicans,30
+Philadelphia 76ers,New York Knicks,31
+Philadelphia 76ers,Sacramento Kings,31
+Philadelphia 76ers,Milwaukee Bucks,31
+Philadelphia 76ers,Denver Nuggets,31
+Philadelphia 76ers,Orlando Magic,32
+Philadelphia 76ers,Utah Jazz,32
+Philadelphia 76ers,Washington Wizards,32
+Philadelphia 76ers,Houston Rockets,32
+Philadelphia 76ers,Chicago Bulls,32
+Philadelphia 76ers,Memphis Grizzlies,32
+Philadelphia 76ers,Dallas Mavericks,32
+Philadelphia 76ers,Portland Trail Blazers,32
+Philadelphia 76ers,Detroit Pistons,32
+Philadelphia 76ers,Indiana Pacers,31
+Philadelphia 76ers,Miami Heat,31
+Philadelphia 76ers,Charlotte Hornets,31
+Philadelphia 76ers,Boston Celtics,31
+Philadelphia 76ers,Atlanta Hawks,31
+Philadelphia 76ers,Los Angeles Clippers,31
+Philadelphia 76ers,Oklahoma City Thunder,31
+Philadelphia 76ers,Toronto Raptors,31
+Philadelphia 76ers,Cleveland Cavaliers,31
+Philadelphia 76ers,San Antonio Spurs,31
+Philadelphia 76ers,Golden State Warriors,31
+Los Angeles Lakers,Philadelphia 76ers,37
+Los Angeles Lakers,Brooklyn Nets,36
+Los Angeles Lakers,Phoenix Suns,32
+Los Angeles Lakers,Minnesota Timberwolves,29
+Los Angeles Lakers,New Orleans Pelicans,26
+Los Angeles Lakers,New York Knicks,24
+Los Angeles Lakers,Sacramento Kings,23
+Los Angeles Lakers,Milwaukee Bucks,22
+Los Angeles Lakers,Denver Nuggets,22
+Los Angeles Lakers,Orlando Magic,23
+Los Angeles Lakers,Utah Jazz,24
+Los Angeles Lakers,Washington Wizards,25
+Los Angeles Lakers,Houston Rockets,26
+Los Angeles Lakers,Chicago Bulls,27
+Los Angeles Lakers,Memphis Grizzlies,28
+Los Angeles Lakers,Dallas Mavericks,29
+Los Angeles Lakers,Portland Trail Blazers,30
+Los Angeles Lakers,Detroit Pistons,30
+Los Angeles Lakers,Indiana Pacers,30
+Los Angeles Lakers,Miami Heat,31
+Los Angeles Lakers,Charlotte Hornets,31
+Los Angeles Lakers,Boston Celtics,31
+Los Angeles Lakers,Atlanta Hawks,31
+Los Angeles Lakers,Los Angeles Clippers,31
+Los Angeles Lakers,Oklahoma City Thunder,31
+Los Angeles Lakers,Toronto Raptors,31
+Los Angeles Lakers,Cleveland Cavaliers,31
+Los Angeles Lakers,San Antonio Spurs,31
+Los Angeles Lakers,Golden State Warriors,31
+Brooklyn Nets,Philadelphia 76ers,50
+Brooklyn Nets,Los Angeles Lakers,50
+Brooklyn Nets,Phoenix Suns,39
+Brooklyn Nets,Minnesota Timberwolves,34
+Brooklyn Nets,New Orleans Pelicans,30
+Brooklyn Nets,New York Knicks,26
+Brooklyn Nets,Sacramento Kings,23
+Brooklyn Nets,Milwaukee Bucks,20
+Brooklyn Nets,Denver Nuggets,17
+Brooklyn Nets,Orlando Magic,16
+Brooklyn Nets,Utah Jazz,15
+Brooklyn Nets,Washington Wizards,14
+Brooklyn Nets,Houston Rockets,15
+Brooklyn Nets,Chicago Bulls,16
+Brooklyn Nets,Memphis Grizzlies,17
+Brooklyn Nets,Dallas Mavericks,19
+Brooklyn Nets,Portland Trail Blazers,20
+Brooklyn Nets,Detroit Pistons,22
+Brooklyn Nets,Indiana Pacers,24
+Brooklyn Nets,Miami Heat,26
+Brooklyn Nets,Charlotte Hornets,27
+Brooklyn Nets,Boston Celtics,28
+Brooklyn Nets,Atlanta Hawks,29
+Brooklyn Nets,Los Angeles Clippers,29
+Brooklyn Nets,Oklahoma City Thunder,30
+Brooklyn Nets,Toronto Raptors,30
+Brooklyn Nets,Cleveland Cavaliers,31
+Brooklyn Nets,San Antonio Spurs,31
+Brooklyn Nets,Golden State Warriors,31
+Phoenix Suns,Philadelphia 76ers,59
+Phoenix Suns,Los Angeles Lakers,59
+Phoenix Suns,Brooklyn Nets,54
+Phoenix Suns,Minnesota Timberwolves,41
+Phoenix Suns,New Orleans Pelicans,36
+Phoenix Suns,New York Knicks,31
+Phoenix Suns,Sacramento Kings,27
+Phoenix Suns,Milwaukee Bucks,24
+Phoenix Suns,Denver Nuggets,21
+Phoenix Suns,Orlando Magic,18
+Phoenix Suns,Utah Jazz,15
+Phoenix Suns,Washington Wizards,13
+Phoenix Suns,Houston Rockets,11
+Phoenix Suns,Chicago Bulls,10
+Phoenix Suns,Memphis Grizzlies,9
+Phoenix Suns,Dallas Mavericks,9
+Phoenix Suns,Portland Trail Blazers,9
+Phoenix Suns,Detroit Pistons,10
+Phoenix Suns,Indiana Pacers,11
+Phoenix Suns,Miami Heat,13
+Phoenix Suns,Charlotte Hornets,15
+Phoenix Suns,Boston Celtics,17
+Phoenix Suns,Atlanta Hawks,20
+Phoenix Suns,Los Angeles Clippers,22
+Phoenix Suns,Oklahoma City Thunder,24
+Phoenix Suns,Toronto Raptors,25
+Phoenix Suns,Cleveland Cavaliers,27
+Phoenix Suns,San Antonio Spurs,28
+Phoenix Suns,Golden State Warriors,29
+Minnesota Timberwolves,Philadelphia 76ers,64
+Minnesota Timberwolves,Los Angeles Lakers,65
+Minnesota Timberwolves,Brooklyn Nets,61
+Minnesota Timberwolves,Phoenix Suns,55
+Minnesota Timberwolves,New Orleans Pelicans,43
+Minnesota Timberwolves,New York Knicks,37
+Minnesota Timberwolves,Sacramento Kings,33
+Minnesota Timberwolves,Milwaukee Bucks,29
+Minnesota Timberwolves,Denver Nuggets,26
+Minnesota Timberwolves,Orlando Magic,23
+Minnesota Timberwolves,Utah Jazz,21
+Minnesota Timberwolves,Washington Wizards,18
+Minnesota Timberwolves,Houston Rockets,15
+Minnesota Timberwolves,Chicago Bulls,13
+Minnesota Timberwolves,Memphis Grizzlies,11
+Minnesota Timberwolves,Dallas Mavericks,9
+Minnesota Timberwolves,Portland Trail Blazers,7
+Minnesota Timberwolves,Detroit Pistons,6
+Minnesota Timberwolves,Indiana Pacers,5
+Minnesota Timberwolves,Miami Heat,5
+Minnesota Timberwolves,Charlotte Hornets,5
+Minnesota Timberwolves,Boston Celtics,6
+Minnesota Timberwolves,Atlanta Hawks,7
+Minnesota Timberwolves,Los Angeles Clippers,8
+Minnesota Timberwolves,Oklahoma City Thunder,10
+Minnesota Timberwolves,Toronto Raptors,12
+Minnesota Timberwolves,Cleveland Cavaliers,15
+Minnesota Timberwolves,San Antonio Spurs,17
+Minnesota Timberwolves,Golden State Warriors,20
+New Orleans Pelicans,Philadelphia 76ers,68
+New Orleans Pelicans,Los Angeles Lakers,70
+New Orleans Pelicans,Brooklyn Nets,66
+New Orleans Pelicans,Phoenix Suns,61
+New Orleans Pelicans,Minnesota Timberwolves,56
+New Orleans Pelicans,New York Knicks,44
+New Orleans Pelicans,Sacramento Kings,38
+New Orleans Pelicans,Milwaukee Bucks,34
+New Orleans Pelicans,Denver Nuggets,31
+New Orleans Pelicans,Orlando Magic,28
+New Orleans Pelicans,Utah Jazz,26
+New Orleans Pelicans,Washington Wizards,24
+New Orleans Pelicans,Houston Rockets,21
+New Orleans Pelicans,Chicago Bulls,18
+New Orleans Pelicans,Memphis Grizzlies,16
+New Orleans Pelicans,Dallas Mavericks,13
+New Orleans Pelicans,Portland Trail Blazers,11
+New Orleans Pelicans,Detroit Pistons,9
+New Orleans Pelicans,Indiana Pacers,7
+New Orleans Pelicans,Miami Heat,6
+New Orleans Pelicans,Charlotte Hornets,4
+New Orleans Pelicans,Boston Celtics,3
+New Orleans Pelicans,Atlanta Hawks,3
+New Orleans Pelicans,Los Angeles Clippers,2
+New Orleans Pelicans,Oklahoma City Thunder,2
+New Orleans Pelicans,Toronto Raptors,3
+New Orleans Pelicans,Cleveland Cavaliers,3
+New Orleans Pelicans,San Antonio Spurs,4
+New Orleans Pelicans,Golden State Warriors,6
+New York Knicks,Philadelphia 76ers,70
+New York Knicks,Los Angeles Lakers,73
+New York Knicks,Brooklyn Nets,70
+New York Knicks,Phoenix Suns,66
+New York Knicks,Minnesota Timberwolves,61
+New York Knicks,New Orleans Pelicans,56
+New York Knicks,Sacramento Kings,45
+New York Knicks,Milwaukee Bucks,39
+New York Knicks,Denver Nuggets,35
+New York Knicks,Orlando Magic,32
+New York Knicks,Utah Jazz,30
+New York Knicks,Washington Wizards,28
+New York Knicks,Houston Rockets,26
+New York Knicks,Chicago Bulls,24
+New York Knicks,Memphis Grizzlies,22
+New York Knicks,Dallas Mavericks,19
+New York Knicks,Portland Trail Blazers,17
+New York Knicks,Detroit Pistons,14
+New York Knicks,Indiana Pacers,12
+New York Knicks,Miami Heat,10
+New York Knicks,Charlotte Hornets,8
+New York Knicks,Boston Celtics,6
+New York Knicks,Atlanta Hawks,5
+New York Knicks,Los Angeles Clippers,3
+New York Knicks,Oklahoma City Thunder,2
+New York Knicks,Toronto Raptors,2
+New York Knicks,Cleveland Cavaliers,1
+New York Knicks,San Antonio Spurs,1
+New York Knicks,Golden State Warriors,1
+Sacramento Kings,Philadelphia 76ers,73
+Sacramento Kings,Los Angeles Lakers,76
+Sacramento Kings,Brooklyn Nets,74
+Sacramento Kings,Phoenix Suns,69
+Sacramento Kings,Minnesota Timberwolves,64
+Sacramento Kings,New Orleans Pelicans,60
+Sacramento Kings,New York Knicks,55
+Sacramento Kings,Milwaukee Bucks,45
+Sacramento Kings,Denver Nuggets,40
+Sacramento Kings,Orlando Magic,36
+Sacramento Kings,Utah Jazz,33
+Sacramento Kings,Washington Wizards,32
+Sacramento Kings,Houston Rockets,30
+Sacramento Kings,Chicago Bulls,29
+Sacramento Kings,Memphis Grizzlies,27
+Sacramento Kings,Dallas Mavericks,25
+Sacramento Kings,Portland Trail Blazers,23
+Sacramento Kings,Detroit Pistons,20
+Sacramento Kings,Indiana Pacers,18
+Sacramento Kings,Miami Heat,15
+Sacramento Kings,Charlotte Hornets,13
+Sacramento Kings,Boston Celtics,11
+Sacramento Kings,Atlanta Hawks,9
+Sacramento Kings,Los Angeles Clippers,7
+Sacramento Kings,Oklahoma City Thunder,5
+Sacramento Kings,Toronto Raptors,4
+Sacramento Kings,Cleveland Cavaliers,3
+Sacramento Kings,San Antonio Spurs,2
+Sacramento Kings,Golden State Warriors,1
+Milwaukee Bucks,Philadelphia 76ers,75
+Milwaukee Bucks,Los Angeles Lakers,78
+Milwaukee Bucks,Brooklyn Nets,77
+Milwaukee Bucks,Phoenix Suns,72
+Milwaukee Bucks,Minnesota Timberwolves,67
+Milwaukee Bucks,New Orleans Pelicans,63
+Milwaukee Bucks,New York Knicks,59
+Milwaukee Bucks,Sacramento Kings,55
+Milwaukee Bucks,Denver Nuggets,45
+Milwaukee Bucks,Orlando Magic,41
+Milwaukee Bucks,Utah Jazz,37
+Milwaukee Bucks,Washington Wizards,34
+Milwaukee Bucks,Houston Rockets,33
+Milwaukee Bucks,Chicago Bulls,31
+Milwaukee Bucks,Memphis Grizzlies,30
+Milwaukee Bucks,Dallas Mavericks,29
+Milwaukee Bucks,Portland Trail Blazers,28
+Milwaukee Bucks,Detroit Pistons,26
+Milwaukee Bucks,Indiana Pacers,24
+Milwaukee Bucks,Miami Heat,21
+Milwaukee Bucks,Charlotte Hornets,19
+Milwaukee Bucks,Boston Celtics,17
+Milwaukee Bucks,Atlanta Hawks,14
+Milwaukee Bucks,Los Angeles Clippers,12
+Milwaukee Bucks,Oklahoma City Thunder,10
+Milwaukee Bucks,Toronto Raptors,8
+Milwaukee Bucks,Cleveland Cavaliers,6
+Milwaukee Bucks,San Antonio Spurs,4
+Milwaukee Bucks,Golden State Warriors,3
+Denver Nuggets,Philadelphia 76ers,76
+Denver Nuggets,Los Angeles Lakers,80
+Denver Nuggets,Brooklyn Nets,80
+Denver Nuggets,Phoenix Suns,75
+Denver Nuggets,Minnesota Timberwolves,69
+Denver Nuggets,New Orleans Pelicans,65
+Denver Nuggets,New York Knicks,61
+Denver Nuggets,Sacramento Kings,58
+Denver Nuggets,Milwaukee Bucks,55
+Denver Nuggets,Orlando Magic,45
+Denver Nuggets,Utah Jazz,41
+Denver Nuggets,Washington Wizards,37
+Denver Nuggets,Houston Rockets,35
+Denver Nuggets,Chicago Bulls,33
+Denver Nuggets,Memphis Grizzlies,32
+Denver Nuggets,Dallas Mavericks,31
+Denver Nuggets,Portland Trail Blazers,31
+Denver Nuggets,Detroit Pistons,30
+Denver Nuggets,Indiana Pacers,29
+Denver Nuggets,Miami Heat,27
+Denver Nuggets,Charlotte Hornets,25
+Denver Nuggets,Boston Celtics,23
+Denver Nuggets,Atlanta Hawks,20
+Denver Nuggets,Los Angeles Clippers,18
+Denver Nuggets,Oklahoma City Thunder,15
+Denver Nuggets,Toronto Raptors,13
+Denver Nuggets,Cleveland Cavaliers,11
+Denver Nuggets,San Antonio Spurs,9
+Denver Nuggets,Golden State Warriors,7
+Orlando Magic,Philadelphia 76ers,78
+Orlando Magic,Los Angeles Lakers,81
+Orlando Magic,Brooklyn Nets,82
+Orlando Magic,Phoenix Suns,78
+Orlando Magic,Minnesota Timberwolves,72
+Orlando Magic,New Orleans Pelicans,67
+Orlando Magic,New York Knicks,62
+Orlando Magic,Sacramento Kings,60
+Orlando Magic,Milwaukee Bucks,58
+Orlando Magic,Denver Nuggets,55
+Orlando Magic,Utah Jazz,46
+Orlando Magic,Washington Wizards,41
+Orlando Magic,Houston Rockets,38
+Orlando Magic,Chicago Bulls,35
+Orlando Magic,Memphis Grizzlies,34
+Orlando Magic,Dallas Mavericks,33
+Orlando Magic,Portland Trail Blazers,32
+Orlando Magic,Detroit Pistons,32
+Orlando Magic,Indiana Pacers,31
+Orlando Magic,Miami Heat,31
+Orlando Magic,Charlotte Hornets,29
+Orlando Magic,Boston Celtics,28
+Orlando Magic,Atlanta Hawks,26
+Orlando Magic,Los Angeles Clippers,24
+Orlando Magic,Oklahoma City Thunder,21
+Orlando Magic,Toronto Raptors,19
+Orlando Magic,Cleveland Cavaliers,16
+Orlando Magic,San Antonio Spurs,14
+Orlando Magic,Golden State Warriors,12
+Utah Jazz,Philadelphia 76ers,80
+Utah Jazz,Los Angeles Lakers,83
+Utah Jazz,Brooklyn Nets,85
+Utah Jazz,Phoenix Suns,81
+Utah Jazz,Minnesota Timberwolves,75
+Utah Jazz,New Orleans Pelicans,69
+Utah Jazz,New York Knicks,64
+Utah Jazz,Sacramento Kings,61
+Utah Jazz,Milwaukee Bucks,59
+Utah Jazz,Denver Nuggets,58
+Utah Jazz,Orlando Magic,55
+Utah Jazz,Washington Wizards,46
+Utah Jazz,Houston Rockets,41
+Utah Jazz,Chicago Bulls,38
+Utah Jazz,Memphis Grizzlies,36
+Utah Jazz,Dallas Mavericks,34
+Utah Jazz,Portland Trail Blazers,33
+Utah Jazz,Detroit Pistons,33
+Utah Jazz,Indiana Pacers,33
+Utah Jazz,Miami Heat,32
+Utah Jazz,Charlotte Hornets,32
+Utah Jazz,Boston Celtics,31
+Utah Jazz,Atlanta Hawks,30
+Utah Jazz,Los Angeles Clippers,29
+Utah Jazz,Oklahoma City Thunder,27
+Utah Jazz,Toronto Raptors,25
+Utah Jazz,Cleveland Cavaliers,22
+Utah Jazz,San Antonio Spurs,20
+Utah Jazz,Golden State Warriors,18
+Washington Wizards,Philadelphia 76ers,81
+Washington Wizards,Los Angeles Lakers,84
+Washington Wizards,Brooklyn Nets,86
+Washington Wizards,Phoenix Suns,84
+Washington Wizards,Minnesota Timberwolves,78
+Washington Wizards,New Orleans Pelicans,71
+Washington Wizards,New York Knicks,66
+Washington Wizards,Sacramento Kings,62
+Washington Wizards,Milwaukee Bucks,59
+Washington Wizards,Denver Nuggets,58
+Washington Wizards,Orlando Magic,58
+Washington Wizards,Utah Jazz,55
+Washington Wizards,Houston Rockets,45
+Washington Wizards,Chicago Bulls,41
+Washington Wizards,Memphis Grizzlies,38
+Washington Wizards,Dallas Mavericks,36
+Washington Wizards,Portland Trail Blazers,35
+Washington Wizards,Detroit Pistons,34
+Washington Wizards,Indiana Pacers,33
+Washington Wizards,Miami Heat,33
+Washington Wizards,Charlotte Hornets,33
+Washington Wizards,Boston Celtics,33
+Washington Wizards,Atlanta Hawks,33
+Washington Wizards,Los Angeles Clippers,32
+Washington Wizards,Oklahoma City Thunder,31
+Washington Wizards,Toronto Raptors,29
+Washington Wizards,Cleveland Cavaliers,28
+Washington Wizards,San Antonio Spurs,26
+Washington Wizards,Golden State Warriors,24
+Houston Rockets,Philadelphia 76ers,82
+Houston Rockets,Los Angeles Lakers,85
+Houston Rockets,Brooklyn Nets,88
+Houston Rockets,Phoenix Suns,87
+Houston Rockets,Minnesota Timberwolves,81
+Houston Rockets,New Orleans Pelicans,74
+Houston Rockets,New York Knicks,68
+Houston Rockets,Sacramento Kings,63
+Houston Rockets,Milwaukee Bucks,59
+Houston Rockets,Denver Nuggets,57
+Houston Rockets,Orlando Magic,58
+Houston Rockets,Utah Jazz,58
+Houston Rockets,Washington Wizards,56
+Houston Rockets,Chicago Bulls,45
+Houston Rockets,Memphis Grizzlies,41
+Houston Rockets,Dallas Mavericks,38
+Houston Rockets,Portland Trail Blazers,36
+Houston Rockets,Detroit Pistons,35
+Houston Rockets,Indiana Pacers,34
+Houston Rockets,Miami Heat,34
+Houston Rockets,Charlotte Hornets,33
+Houston Rockets,Boston Celtics,33
+Houston Rockets,Atlanta Hawks,33
+Houston Rockets,Los Angeles Clippers,34
+Houston Rockets,Oklahoma City Thunder,33
+Houston Rockets,Toronto Raptors,33
+Houston Rockets,Cleveland Cavaliers,32
+Houston Rockets,San Antonio Spurs,30
+Houston Rockets,Golden State Warriors,29
+Chicago Bulls,Philadelphia 76ers,84
+Chicago Bulls,Los Angeles Lakers,86
+Chicago Bulls,Brooklyn Nets,89
+Chicago Bulls,Phoenix Suns,89
+Chicago Bulls,Minnesota Timberwolves,84
+Chicago Bulls,New Orleans Pelicans,77
+Chicago Bulls,New York Knicks,71
+Chicago Bulls,Sacramento Kings,65
+Chicago Bulls,Milwaukee Bucks,61
+Chicago Bulls,Denver Nuggets,57
+Chicago Bulls,Orlando Magic,56
+Chicago Bulls,Utah Jazz,57
+Chicago Bulls,Washington Wizards,58
+Chicago Bulls,Houston Rockets,56
+Chicago Bulls,Memphis Grizzlies,45
+Chicago Bulls,Dallas Mavericks,41
+Chicago Bulls,Portland Trail Blazers,38
+Chicago Bulls,Detroit Pistons,36
+Chicago Bulls,Indiana Pacers,35
+Chicago Bulls,Miami Heat,34
+Chicago Bulls,Charlotte Hornets,34
+Chicago Bulls,Boston Celtics,34
+Chicago Bulls,Atlanta Hawks,33
+Chicago Bulls,Los Angeles Clippers,34
+Chicago Bulls,Oklahoma City Thunder,34
+Chicago Bulls,Toronto Raptors,34
+Chicago Bulls,Cleveland Cavaliers,34
+Chicago Bulls,San Antonio Spurs,33
+Chicago Bulls,Golden State Warriors,32
+Memphis Grizzlies,Philadelphia 76ers,85
+Memphis Grizzlies,Los Angeles Lakers,87
+Memphis Grizzlies,Brooklyn Nets,89
+Memphis Grizzlies,Phoenix Suns,91
+Memphis Grizzlies,Minnesota Timberwolves,87
+Memphis Grizzlies,New Orleans Pelicans,80
+Memphis Grizzlies,New York Knicks,73
+Memphis Grizzlies,Sacramento Kings,67
+Memphis Grizzlies,Milwaukee Bucks,62
+Memphis Grizzlies,Denver Nuggets,58
+Memphis Grizzlies,Orlando Magic,56
+Memphis Grizzlies,Utah Jazz,56
+Memphis Grizzlies,Washington Wizards,58
+Memphis Grizzlies,Houston Rockets,59
+Memphis Grizzlies,Chicago Bulls,56
+Memphis Grizzlies,Dallas Mavericks,45
+Memphis Grizzlies,Portland Trail Blazers,41
+Memphis Grizzlies,Detroit Pistons,38
+Memphis Grizzlies,Indiana Pacers,36
+Memphis Grizzlies,Miami Heat,35
+Memphis Grizzlies,Charlotte Hornets,34
+Memphis Grizzlies,Boston Celtics,34
+Memphis Grizzlies,Atlanta Hawks,34
+Memphis Grizzlies,Los Angeles Clippers,34
+Memphis Grizzlies,Oklahoma City Thunder,34
+Memphis Grizzlies,Toronto Raptors,34
+Memphis Grizzlies,Cleveland Cavaliers,34
+Memphis Grizzlies,San Antonio Spurs,35
+Memphis Grizzlies,Golden State Warriors,34
+Dallas Mavericks,Philadelphia 76ers,86
+Dallas Mavericks,Los Angeles Lakers,88
+Dallas Mavericks,Brooklyn Nets,90
+Dallas Mavericks,Phoenix Suns,92
+Dallas Mavericks,Minnesota Timberwolves,90
+Dallas Mavericks,New Orleans Pelicans,84
+Dallas Mavericks,New York Knicks,76
+Dallas Mavericks,Sacramento Kings,70
+Dallas Mavericks,Milwaukee Bucks,64
+Dallas Mavericks,Denver Nuggets,60
+Dallas Mavericks,Orlando Magic,56
+Dallas Mavericks,Utah Jazz,54
+Dallas Mavericks,Washington Wizards,55
+Dallas Mavericks,Houston Rockets,58
+Dallas Mavericks,Chicago Bulls,59
+Dallas Mavericks,Memphis Grizzlies,56
+Dallas Mavericks,Portland Trail Blazers,45
+Dallas Mavericks,Detroit Pistons,41
+Dallas Mavericks,Indiana Pacers,38
+Dallas Mavericks,Miami Heat,36
+Dallas Mavericks,Charlotte Hornets,35
+Dallas Mavericks,Boston Celtics,34
+Dallas Mavericks,Atlanta Hawks,34
+Dallas Mavericks,Los Angeles Clippers,34
+Dallas Mavericks,Oklahoma City Thunder,34
+Dallas Mavericks,Toronto Raptors,34
+Dallas Mavericks,Cleveland Cavaliers,34
+Dallas Mavericks,San Antonio Spurs,34
+Dallas Mavericks,Golden State Warriors,35
+Portland Trail Blazers,Philadelphia 76ers,87
+Portland Trail Blazers,Los Angeles Lakers,89
+Portland Trail Blazers,Brooklyn Nets,91
+Portland Trail Blazers,Phoenix Suns,93
+Portland Trail Blazers,Minnesota Timberwolves,92
+Portland Trail Blazers,New Orleans Pelicans,87
+Portland Trail Blazers,New York Knicks,79
+Portland Trail Blazers,Sacramento Kings,73
+Portland Trail Blazers,Milwaukee Bucks,67
+Portland Trail Blazers,Denver Nuggets,61
+Portland Trail Blazers,Orlando Magic,57
+Portland Trail Blazers,Utah Jazz,54
+Portland Trail Blazers,Washington Wizards,53
+Portland Trail Blazers,Houston Rockets,55
+Portland Trail Blazers,Chicago Bulls,59
+Portland Trail Blazers,Memphis Grizzlies,60
+Portland Trail Blazers,Dallas Mavericks,57
+Portland Trail Blazers,Detroit Pistons,45
+Portland Trail Blazers,Indiana Pacers,40
+Portland Trail Blazers,Miami Heat,38
+Portland Trail Blazers,Charlotte Hornets,36
+Portland Trail Blazers,Boston Celtics,35
+Portland Trail Blazers,Atlanta Hawks,35
+Portland Trail Blazers,Los Angeles Clippers,34
+Portland Trail Blazers,Oklahoma City Thunder,34
+Portland Trail Blazers,Toronto Raptors,34
+Portland Trail Blazers,Cleveland Cavaliers,34
+Portland Trail Blazers,San Antonio Spurs,34
+Portland Trail Blazers,Golden State Warriors,34
+Detroit Pistons,Philadelphia 76ers,88
+Detroit Pistons,Los Angeles Lakers,90
+Detroit Pistons,Brooklyn Nets,91
+Detroit Pistons,Phoenix Suns,94
+Detroit Pistons,Minnesota Timberwolves,94
+Detroit Pistons,New Orleans Pelicans,90
+Detroit Pistons,New York Knicks,83
+Detroit Pistons,Sacramento Kings,76
+Detroit Pistons,Milwaukee Bucks,69
+Detroit Pistons,Denver Nuggets,64
+Detroit Pistons,Orlando Magic,59
+Detroit Pistons,Utah Jazz,55
+Detroit Pistons,Washington Wizards,52
+Detroit Pistons,Houston Rockets,52
+Detroit Pistons,Chicago Bulls,56
+Detroit Pistons,Memphis Grizzlies,60
+Detroit Pistons,Dallas Mavericks,60
+Detroit Pistons,Portland Trail Blazers,57
+Detroit Pistons,Indiana Pacers,45
+Detroit Pistons,Miami Heat,40
+Detroit Pistons,Charlotte Hornets,38
+Detroit Pistons,Boston Celtics,36
+Detroit Pistons,Atlanta Hawks,35
+Detroit Pistons,Los Angeles Clippers,35
+Detroit Pistons,Oklahoma City Thunder,34
+Detroit Pistons,Toronto Raptors,34
+Detroit Pistons,Cleveland Cavaliers,34
+Detroit Pistons,San Antonio Spurs,34
+Detroit Pistons,Golden State Warriors,34
+Indiana Pacers,Philadelphia 76ers,88
+Indiana Pacers,Los Angeles Lakers,90
+Indiana Pacers,Brooklyn Nets,92
+Indiana Pacers,Phoenix Suns,94
+Indiana Pacers,Minnesota Timberwolves,96
+Indiana Pacers,New Orleans Pelicans,93
+Indiana Pacers,New York Knicks,86
+Indiana Pacers,Sacramento Kings,79
+Indiana Pacers,Milwaukee Bucks,72
+Indiana Pacers,Denver Nuggets,66
+Indiana Pacers,Orlando Magic,61
+Indiana Pacers,Utah Jazz,56
+Indiana Pacers,Washington Wizards,53
+Indiana Pacers,Houston Rockets,51
+Indiana Pacers,Chicago Bulls,52
+Indiana Pacers,Memphis Grizzlies,56
+Indiana Pacers,Dallas Mavericks,61
+Indiana Pacers,Portland Trail Blazers,61
+Indiana Pacers,Detroit Pistons,57
+Indiana Pacers,Miami Heat,44
+Indiana Pacers,Charlotte Hornets,40
+Indiana Pacers,Boston Celtics,37
+Indiana Pacers,Atlanta Hawks,36
+Indiana Pacers,Los Angeles Clippers,35
+Indiana Pacers,Oklahoma City Thunder,35
+Indiana Pacers,Toronto Raptors,34
+Indiana Pacers,Cleveland Cavaliers,34
+Indiana Pacers,San Antonio Spurs,34
+Indiana Pacers,Golden State Warriors,34
+Miami Heat,Philadelphia 76ers,89
+Miami Heat,Los Angeles Lakers,91
+Miami Heat,Brooklyn Nets,92
+Miami Heat,Phoenix Suns,94
+Miami Heat,Minnesota Timberwolves,97
+Miami Heat,New Orleans Pelicans,95
+Miami Heat,New York Knicks,89
+Miami Heat,Sacramento Kings,82
+Miami Heat,Milwaukee Bucks,75
+Miami Heat,Denver Nuggets,69
+Miami Heat,Orlando Magic,63
+Miami Heat,Utah Jazz,58
+Miami Heat,Washington Wizards,54
+Miami Heat,Houston Rockets,51
+Miami Heat,Chicago Bulls,50
+Miami Heat,Memphis Grizzlies,52
+Miami Heat,Dallas Mavericks,57
+Miami Heat,Portland Trail Blazers,62
+Miami Heat,Detroit Pistons,62
+Miami Heat,Indiana Pacers,57
+Miami Heat,Charlotte Hornets,44
+Miami Heat,Boston Celtics,40
+Miami Heat,Atlanta Hawks,37
+Miami Heat,Los Angeles Clippers,36
+Miami Heat,Oklahoma City Thunder,35
+Miami Heat,Toronto Raptors,35
+Miami Heat,Cleveland Cavaliers,34
+Miami Heat,San Antonio Spurs,34
+Miami Heat,Golden State Warriors,34
+Charlotte Hornets,Philadelphia 76ers,90
+Charlotte Hornets,Los Angeles Lakers,91
+Charlotte Hornets,Brooklyn Nets,93
+Charlotte Hornets,Phoenix Suns,94
+Charlotte Hornets,Minnesota Timberwolves,97
+Charlotte Hornets,New Orleans Pelicans,97
+Charlotte Hornets,New York Knicks,92
+Charlotte Hornets,Sacramento Kings,85
+Charlotte Hornets,Milwaukee Bucks,78
+Charlotte Hornets,Denver Nuggets,71
+Charlotte Hornets,Orlando Magic,66
+Charlotte Hornets,Utah Jazz,60
+Charlotte Hornets,Washington Wizards,56
+Charlotte Hornets,Houston Rockets,52
+Charlotte Hornets,Chicago Bulls,49
+Charlotte Hornets,Memphis Grizzlies,49
+Charlotte Hornets,Dallas Mavericks,52
+Charlotte Hornets,Portland Trail Blazers,58
+Charlotte Hornets,Detroit Pistons,63
+Charlotte Hornets,Indiana Pacers,62
+Charlotte Hornets,Miami Heat,57
+Charlotte Hornets,Boston Celtics,44
+Charlotte Hornets,Atlanta Hawks,40
+Charlotte Hornets,Los Angeles Clippers,37
+Charlotte Hornets,Oklahoma City Thunder,36
+Charlotte Hornets,Toronto Raptors,35
+Charlotte Hornets,Cleveland Cavaliers,35
+Charlotte Hornets,San Antonio Spurs,34
+Charlotte Hornets,Golden State Warriors,34
+Boston Celtics,Philadelphia 76ers,90
+Boston Celtics,Los Angeles Lakers,92
+Boston Celtics,Brooklyn Nets,93
+Boston Celtics,Phoenix Suns,95
+Boston Celtics,Minnesota Timberwolves,98
+Boston Celtics,New Orleans Pelicans,99
+Boston Celtics,New York Knicks,95
+Boston Celtics,Sacramento Kings,88
+Boston Celtics,Milwaukee Bucks,81
+Boston Celtics,Denver Nuggets,74
+Boston Celtics,Orlando Magic,68
+Boston Celtics,Utah Jazz,63
+Boston Celtics,Washington Wizards,58
+Boston Celtics,Houston Rockets,53
+Boston Celtics,Chicago Bulls,50
+Boston Celtics,Memphis Grizzlies,48
+Boston Celtics,Dallas Mavericks,48
+Boston Celtics,Portland Trail Blazers,53
+Boston Celtics,Detroit Pistons,59
+Boston Celtics,Indiana Pacers,64
+Boston Celtics,Miami Heat,63
+Boston Celtics,Charlotte Hornets,57
+Boston Celtics,Atlanta Hawks,44
+Boston Celtics,Los Angeles Clippers,40
+Boston Celtics,Oklahoma City Thunder,37
+Boston Celtics,Toronto Raptors,36
+Boston Celtics,Cleveland Cavaliers,35
+Boston Celtics,San Antonio Spurs,35
+Boston Celtics,Golden State Warriors,34
+Atlanta Hawks,Philadelphia 76ers,91
+Atlanta Hawks,Los Angeles Lakers,92
+Atlanta Hawks,Brooklyn Nets,93
+Atlanta Hawks,Phoenix Suns,95
+Atlanta Hawks,Minnesota Timberwolves,98
+Atlanta Hawks,New Orleans Pelicans,99
+Atlanta Hawks,New York Knicks,97
+Atlanta Hawks,Sacramento Kings,91
+Atlanta Hawks,Milwaukee Bucks,84
+Atlanta Hawks,Denver Nuggets,77
+Atlanta Hawks,Orlando Magic,71
+Atlanta Hawks,Utah Jazz,65
+Atlanta Hawks,Washington Wizards,60
+Atlanta Hawks,Houston Rockets,55
+Atlanta Hawks,Chicago Bulls,51
+Atlanta Hawks,Memphis Grizzlies,48
+Atlanta Hawks,Dallas Mavericks,46
+Atlanta Hawks,Portland Trail Blazers,48
+Atlanta Hawks,Detroit Pistons,54
+Atlanta Hawks,Indiana Pacers,61
+Atlanta Hawks,Miami Heat,65
+Atlanta Hawks,Charlotte Hornets,64
+Atlanta Hawks,Boston Celtics,57
+Atlanta Hawks,Los Angeles Clippers,44
+Atlanta Hawks,Oklahoma City Thunder,39
+Atlanta Hawks,Toronto Raptors,37
+Atlanta Hawks,Cleveland Cavaliers,36
+Atlanta Hawks,San Antonio Spurs,35
+Atlanta Hawks,Golden State Warriors,35
+Los Angeles Clippers,Philadelphia 76ers,91
+Los Angeles Clippers,Los Angeles Lakers,93
+Los Angeles Clippers,Brooklyn Nets,94
+Los Angeles Clippers,Phoenix Suns,95
+Los Angeles Clippers,Minnesota Timberwolves,98
+Los Angeles Clippers,New Orleans Pelicans,99
+Los Angeles Clippers,New York Knicks,99
+Los Angeles Clippers,Sacramento Kings,94
+Los Angeles Clippers,Milwaukee Bucks,87
+Los Angeles Clippers,Denver Nuggets,80
+Los Angeles Clippers,Orlando Magic,74
+Los Angeles Clippers,Utah Jazz,68
+Los Angeles Clippers,Washington Wizards,62
+Los Angeles Clippers,Houston Rockets,57
+Los Angeles Clippers,Chicago Bulls,53
+Los Angeles Clippers,Memphis Grizzlies,49
+Los Angeles Clippers,Dallas Mavericks,46
+Los Angeles Clippers,Portland Trail Blazers,46
+Los Angeles Clippers,Detroit Pistons,48
+Los Angeles Clippers,Indiana Pacers,55
+Los Angeles Clippers,Miami Heat,62
+Los Angeles Clippers,Charlotte Hornets,66
+Los Angeles Clippers,Boston Celtics,64
+Los Angeles Clippers,Atlanta Hawks,57
+Los Angeles Clippers,Oklahoma City Thunder,43
+Los Angeles Clippers,Toronto Raptors,39
+Los Angeles Clippers,Cleveland Cavaliers,37
+Los Angeles Clippers,San Antonio Spurs,36
+Los Angeles Clippers,Golden State Warriors,35
+Oklahoma City Thunder,Philadelphia 76ers,91
+Oklahoma City Thunder,Los Angeles Lakers,93
+Oklahoma City Thunder,Brooklyn Nets,94
+Oklahoma City Thunder,Phoenix Suns,95
+Oklahoma City Thunder,Minnesota Timberwolves,97
+Oklahoma City Thunder,New Orleans Pelicans,99
+Oklahoma City Thunder,New York Knicks,99
+Oklahoma City Thunder,Sacramento Kings,97
+Oklahoma City Thunder,Milwaukee Bucks,90
+Oklahoma City Thunder,Denver Nuggets,83
+Oklahoma City Thunder,Orlando Magic,77
+Oklahoma City Thunder,Utah Jazz,70
+Oklahoma City Thunder,Washington Wizards,65
+Oklahoma City Thunder,Houston Rockets,59
+Oklahoma City Thunder,Chicago Bulls,55
+Oklahoma City Thunder,Memphis Grizzlies,51
+Oklahoma City Thunder,Dallas Mavericks,47
+Oklahoma City Thunder,Portland Trail Blazers,45
+Oklahoma City Thunder,Detroit Pistons,45
+Oklahoma City Thunder,Indiana Pacers,49
+Oklahoma City Thunder,Miami Heat,56
+Oklahoma City Thunder,Charlotte Hornets,64
+Oklahoma City Thunder,Boston Celtics,67
+Oklahoma City Thunder,Atlanta Hawks,64
+Oklahoma City Thunder,Los Angeles Clippers,57
+Oklahoma City Thunder,Toronto Raptors,43
+Oklahoma City Thunder,Cleveland Cavaliers,39
+Oklahoma City Thunder,San Antonio Spurs,37
+Oklahoma City Thunder,Golden State Warriors,36
+Toronto Raptors,Philadelphia 76ers,92
+Toronto Raptors,Los Angeles Lakers,93
+Toronto Raptors,Brooklyn Nets,94
+Toronto Raptors,Phoenix Suns,95
+Toronto Raptors,Minnesota Timberwolves,97
+Toronto Raptors,New Orleans Pelicans,99
+Toronto Raptors,New York Knicks,99
+Toronto Raptors,Sacramento Kings,99
+Toronto Raptors,Milwaukee Bucks,93
+Toronto Raptors,Denver Nuggets,86
+Toronto Raptors,Orlando Magic,79
+Toronto Raptors,Utah Jazz,73
+Toronto Raptors,Washington Wizards,67
+Toronto Raptors,Houston Rockets,62
+Toronto Raptors,Chicago Bulls,57
+Toronto Raptors,Memphis Grizzlies,52
+Toronto Raptors,Dallas Mavericks,49
+Toronto Raptors,Portland Trail Blazers,45
+Toronto Raptors,Detroit Pistons,44
+Toronto Raptors,Indiana Pacers,45
+Toronto Raptors,Miami Heat,50
+Toronto Raptors,Charlotte Hornets,58
+Toronto Raptors,Boston Celtics,66
+Toronto Raptors,Atlanta Hawks,68
+Toronto Raptors,Los Angeles Clippers,65
+Toronto Raptors,Oklahoma City Thunder,57
+Toronto Raptors,Cleveland Cavaliers,43
+Toronto Raptors,San Antonio Spurs,39
+Toronto Raptors,Golden State Warriors,37
+Cleveland Cavaliers,Philadelphia 76ers,92
+Cleveland Cavaliers,Los Angeles Lakers,94
+Cleveland Cavaliers,Brooklyn Nets,95
+Cleveland Cavaliers,Phoenix Suns,95
+Cleveland Cavaliers,Minnesota Timberwolves,97
+Cleveland Cavaliers,New Orleans Pelicans,99
+Cleveland Cavaliers,New York Knicks,99
+Cleveland Cavaliers,Sacramento Kings,99
+Cleveland Cavaliers,Milwaukee Bucks,96
+Cleveland Cavaliers,Denver Nuggets,89
+Cleveland Cavaliers,Orlando Magic,82
+Cleveland Cavaliers,Utah Jazz,76
+Cleveland Cavaliers,Washington Wizards,70
+Cleveland Cavaliers,Houston Rockets,64
+Cleveland Cavaliers,Chicago Bulls,59
+Cleveland Cavaliers,Memphis Grizzlies,54
+Cleveland Cavaliers,Dallas Mavericks,50
+Cleveland Cavaliers,Portland Trail Blazers,47
+Cleveland Cavaliers,Detroit Pistons,44
+Cleveland Cavaliers,Indiana Pacers,43
+Cleveland Cavaliers,Miami Heat,45
+Cleveland Cavaliers,Charlotte Hornets,51
+Cleveland Cavaliers,Boston Celtics,60
+Cleveland Cavaliers,Atlanta Hawks,67
+Cleveland Cavaliers,Los Angeles Clippers,69
+Cleveland Cavaliers,Oklahoma City Thunder,65
+Cleveland Cavaliers,Toronto Raptors,57
+Cleveland Cavaliers,San Antonio Spurs,43
+Cleveland Cavaliers,Golden State Warriors,39
+San Antonio Spurs,Philadelphia 76ers,92
+San Antonio Spurs,Los Angeles Lakers,94
+San Antonio Spurs,Brooklyn Nets,95
+San Antonio Spurs,Phoenix Suns,96
+San Antonio Spurs,Minnesota Timberwolves,97
+San Antonio Spurs,New Orleans Pelicans,99
+San Antonio Spurs,New York Knicks,99
+San Antonio Spurs,Sacramento Kings,99
+San Antonio Spurs,Milwaukee Bucks,98
+San Antonio Spurs,Denver Nuggets,91
+San Antonio Spurs,Orlando Magic,85
+San Antonio Spurs,Utah Jazz,79
+San Antonio Spurs,Washington Wizards,73
+San Antonio Spurs,Houston Rockets,67
+San Antonio Spurs,Chicago Bulls,61
+San Antonio Spurs,Memphis Grizzlies,57
+San Antonio Spurs,Dallas Mavericks,52
+San Antonio Spurs,Portland Trail Blazers,48
+San Antonio Spurs,Detroit Pistons,45
+San Antonio Spurs,Indiana Pacers,43
+San Antonio Spurs,Miami Heat,42
+San Antonio Spurs,Charlotte Hornets,45
+San Antonio Spurs,Boston Celtics,52
+San Antonio Spurs,Atlanta Hawks,62
+San Antonio Spurs,Los Angeles Clippers,69
+San Antonio Spurs,Oklahoma City Thunder,70
+San Antonio Spurs,Toronto Raptors,65
+San Antonio Spurs,Cleveland Cavaliers,56
+San Antonio Spurs,Golden State Warriors,42
+Golden State Warriors,Philadelphia 76ers,93
+Golden State Warriors,Los Angeles Lakers,94
+Golden State Warriors,Brooklyn Nets,95
+Golden State Warriors,Phoenix Suns,96
+Golden State Warriors,Minnesota Timberwolves,97
+Golden State Warriors,New Orleans Pelicans,99
+Golden State Warriors,New York Knicks,99
+Golden State Warriors,Sacramento Kings,99
+Golden State Warriors,Milwaukee Bucks,99
+Golden State Warriors,Denver Nuggets,94
+Golden State Warriors,Orlando Magic,88
+Golden State Warriors,Utah Jazz,82
+Golden State Warriors,Washington Wizards,75
+Golden State Warriors,Houston Rockets,69
+Golden State Warriors,Chicago Bulls,64
+Golden State Warriors,Memphis Grizzlies,59
+Golden State Warriors,Dallas Mavericks,54
+Golden State Warriors,Portland Trail Blazers,50
+Golden State Warriors,Detroit Pistons,46
+Golden State Warriors,Indiana Pacers,43
+Golden State Warriors,Miami Heat,41
+Golden State Warriors,Charlotte Hornets,41
+Golden State Warriors,Boston Celtics,46
+Golden State Warriors,Atlanta Hawks,54
+Golden State Warriors,Los Angeles Clippers,64
+Golden State Warriors,Oklahoma City Thunder,70
+Golden State Warriors,Toronto Raptors,71
+Golden State Warriors,Cleveland Cavaliers,65
+Golden State Warriors,San Antonio Spurs,56
