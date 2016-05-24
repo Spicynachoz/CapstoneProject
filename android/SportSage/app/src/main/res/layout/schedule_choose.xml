@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+
+        android:text="SCHEDULE"
+        android:gravity="center"
+        android:id="@+id/maker"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:textSize="40sp"
+        android:textColor="#ffffff"
+        android:background="#00bfff"
+        />
+
+    <Spinner
+        android:prompt="@string/month"
+        android:id="@+id/month"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:entries="@array/month_array"
+        />
+
+    <Spinner
+        android:prompt="@string/team"
+        android:id="@+id/teams"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="10dp"
+        android:entries="@array/team_array"
+        />
+
+    <Button
+        android:text="Check"
+        android:id="@+id/check"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="#00bfff"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        />
+
+    <ListView
+        android:layout_marginTop="5dp"
+        android:id="@+id/ListView00"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        />
+</LinearLayout>
